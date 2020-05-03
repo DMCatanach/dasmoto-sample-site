@@ -1,3 +1,11 @@
+* {
+	font-family: Helvetica;
+}
+
 h1 {
-	color: red;
+	color: khaki;
+}
+
+span {
+	color: blue;
 }
