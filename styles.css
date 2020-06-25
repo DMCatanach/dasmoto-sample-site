@@ -9,27 +9,27 @@ h1, h2, span {
 h1 {
 	font-size: 100px;
 	text-align: center;
-	color: khaki;
+	color: #f0e68c;
 	background-image: url(./Images/pattern.jpeg);
 }
 
 h2 {
 	font-size: 32px;
-	color: white;
+	color: #fff;
 }
 
 span {
-	color: blue;
+	color: #00f;
 }
 
 #brushes {
-	background-color: mediumspringgreen;
+	background-color: #00fa9a;
 }
 
 #frames {
-	background-color: lightcoral;
+	background-color: #f08080;
 }
 
 #paint {
-	background-color: skyblue;
+	background-color: #87ceeb;
 }
